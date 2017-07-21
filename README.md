@@ -17,7 +17,7 @@
 	![](docker_ps.jpg)
 * As a final test, your terminal should automatically be on working directory `/root/Desktop/labs/defcon_viz`, run the commands: 
 	* `source active_viz.sh`
-	* `./start_viz.sh`
+	* `./start_notebook.sh`
 	* This should start up an iPython notebook and open up the Firefox Browser to point to the iPython Notebook on port 8888
 	![](start_viz.jpg)
 	![](notebook.jpg)
