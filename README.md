@@ -12,7 +12,8 @@
 	![](import_appliance.jpg) 
 * Wait for OS to boot. Once it boots, you should see the desktop environment: 
 	![](desktop.jpg)
-* To test if everything is working correctly, Open up the `Terminal Emulator` in the Desktop and run `docker ps`, you should see something like this: 
+* 
+* To test if everything is working correctly, Open up the `Terminal Emulator` in the Desktop and run the first command `sudo service docker start`. Subsequently, run the command `docker ps`, you should see something like this: 
 	![](docker_ps.jpg)
 * As a final test, your terminal should automatically be on working directory `/root/Desktop/labs/defcon_viz`, run the commands: 
 	* `source active_viz.sh`
