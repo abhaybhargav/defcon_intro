@@ -4,10 +4,10 @@
 
 #### Instructions to deploy the VM
 
-* Download VirtualBox 5.1.24 from here: [https://www.virtualbox.org/wiki/Downloads]()
+* Download VirtualBox 5.1.24 from here: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
 * Install Virtualbox Guest Additions as well
-* Download the VM (VirtualBox OVA file) from here: [https://drive.google.com/open?id=0ByoRV3VC1qSwcnJCS0pFcDBhYzg]()
-* MD5.txt Checksum for the ova file is here: [https://drive.google.com/open?id=0ByoRV3VC1qSwa3VkZFAxSlQ1dGc]()
+* Download the VM (VirtualBox OVA file) from here: [https://drive.google.com/open?id=0ByoRV3VC1qSwcnJCS0pFcDBhYzg](https://drive.google.com/open?id=0ByoRV3VC1qSwcnJCS0pFcDBhYzg)
+* MD5.txt Checksum for the ova file is here: [https://drive.google.com/open?id=0ByoRV3VC1qSwa3VkZFAxSlQ1dGc](https://drive.google.com/open?id=0ByoRV3VC1qSwa3VkZFAxSlQ1dGc)
 * Once you download the VM and install VirtualBox, you'll have to import the Appliance 
 	![](import_appliance.jpg) 
 * Wait for OS to boot. Once it boots, you should see the desktop environment: 
