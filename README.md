@@ -1,8 +1,8 @@
-#DEFCON 25 - AppSec Automation Workshop
+# DEFCON 25 - AppSec Automation Workshop
 
-###By - Abhay Bhargav, CTO - we45
+### By - Abhay Bhargav, CTO - we45
 
-####Instructions to deploy the VM
+#### Instructions to deploy the VM
 
 * Download VirtualBox 5.1.24 from here: [https://www.virtualbox.org/wiki/Downloads]()
 * Install Virtualbox Guest Additions as well
@@ -25,10 +25,11 @@ If all this works, you should be good to go!
 
 	
 
-#####Note
+##### Note
 
 * The VM has been configured with a 2560MB of RAM. Please increase it as required
 * For Win OSs, you will have to enable Virtualization in the BIOS for VirtualBox and the VM to work
 * Networking has been disabled for obvious reasons. This is a vulnerable OS, with vulnerable apps, which is used in a hackercon. Go figure!
 * When importing, you might want to check on the `Reinitialize MAC Addresses` in the Import Menu
- 
+
+Feel free to reach out to me on `@abhaybhargav` (Twitter) if you have any questions/issues
